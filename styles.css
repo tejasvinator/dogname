@@ -1,0 +1,47 @@
+body {
+background-color: lightblue;
+font-family: Helvetica;
+}
+    
+#main {
+width: 80%;
+max-width: 950px;
+border: 1px gray solid;
+margin: auto;
+padding: 10px;
+background-color: white;
+border-radius: 10px;
+}
+
+#header {
+margin-top: 0;
+border: 2px solid black;
+padding: 5px;
+height: 250px;
+
+background-image: url("https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+background-size: cover;
+background-position: left 10% bottom 70%;
+color: black;
+}
+
+label {
+display: block;
+}
+        
+input {
+width: 30px;
+margin-left: 20px;
+}
+        
+h2 {
+clear: both;
+padding-top: 20px;
+font-weight: bold;
+}
+         
+button {
+width: 100px;
+margin-top: 20px;
+}
+        
